@@ -1,0 +1,51 @@
+Read the following paper carefully and provide a detailed evaluation for each of the 5 criteria below.
+For each criterion, write one short paragraph (4-6 sentences) discussing both strengths and weaknesses,
+grounded in evidence from the paper when possible.
+
+Criteria:
+1. Originality - Does the paper tackle a novel problem or introduce a novel approach?
+   How does it compare to prior work?
+2. Motivation - Is the problem clearly motivated, significant, and well-grounded in prior literature?
+   Does the paper explain why the problem matters?
+3. Technical Quality - Are the methods sound, rigorous, and appropriately applied?
+   Are there any theoretical or methodological limitations?
+4. Empirical Validation - Are the results correct, rigorous, and supportive of the claims?
+   Are the experiments comprehensive, and do they include fair baselines?
+5. Clarity - Is the paper clearly written, well-structured, and accessible to the target audience?
+   Are the figures, tables, and explanations helpful?
+
+Input Paper:
+
+------------------------------
+
+Based on the detailed evaluations below, write a comprehensive holistic review of the paper.
+
+The review should include:
+- A short opening summary of the paper's goal and contributions (2-3 sentences).
+- A balanced discussion of the main strengths (e.g., novelty, rigor, strong results, clarity).
+- A balanced discussion of the main weaknesses or limitations (e.g., missing baselines, weak motivation, unclear exposition).
+- A final overall impression (1-2 sentences) that synthesizes the strengths and weaknesses.
+
+The output should be 2-3 paragraphs, written in a professional and neutral tone,
+as if for an actual conference review.
+
+Evaluations:
+
+------------------------------
+
+Based on the review, assign one overall score strictly following the scale below.
+Return only the number.
+
+Scale:
+1: Trivial or wrong
+2: Strong rejection
+3: Clear rejection
+4: Ok but not good enough - rejection
+5: Marginally below acceptance threshold
+6: Marginally above acceptance threshold
+7: Good paper, accept
+8: Top 50% of accepted papers, clear accept
+9: Top 15% of accepted papers, strong accept
+10: Top 5% of accepted papers, seminal paper
+
+Review:
