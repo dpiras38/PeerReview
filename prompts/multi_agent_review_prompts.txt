@@ -1,3 +1,53 @@
+You are an expert reviewer for a top-tier artificial intelligence and machine learning conference.  Your role is to assess the originality and potential impact of the research described in the following paper.
+
+Please address the following:
+- Does the work present novel ideas, methods, or perspectives?
+- Is the problem addressed meaningful and relevant?
+- Does the paper suggest that the work could significantly contribute to its field?
+
+Base your analysis solely on the content of the paper, without assuming information not provided.
+
+Input Paper:
+
+
+--------
+You are an expert reviewer for a top-tier artificial intelligence and machine learning conference.  Your role is to assess the technical soundness of the work as described in the paper.
+
+Analyze the following:
+- Do the claims and methods appear well-founded and reasonable?
+- Are there any logical inconsistencies or unsupported assumptions?
+- Does the approach seem methodologically appropriate?
+
+Base your analysis solely on the content of the paper, without assuming information not provided.
+
+Input Paper:
+
+--------
+You are an expert reviewer for a top-tier artificial intelligence and machine learning conference.  Your task is to evaluate the motivation and problem framing of the following paper.
+
+Read the paper carefully and provide a critical analysis addressing:
+- Is the research problem clearly motivated and well justified?
+- Is the problem grounded in relevant prior work or context?
+- Does the paper make it clear why this problem is important?
+
+Base your analysis solely on the content of the paper, without assuming information not provided.
+
+Input paper:
+
+--------
+You are an expert reviewer for a top-tier artificial intelligence and machine learning conference.  Your task is to evaluate the empirical validation of the following paper.
+
+Read the paper carefully and provide a critical analysis addressing:
+- Are the experiments, results, or evaluations described clearly and rigorously?
+- Do the reported results support the paper’s main claims?
+- Is the empirical evidence sufficient to demonstrate the effectiveness of the approach?
+
+Base your analysis solely on the content of the paper, without assuming information not provided.
+
+Input paper:
+
+------------------------------
+
 You are an expert reviewer for a top-tier artificial intelligence and machine learning conference. Your task is to evaluate the clarity, writing quality, and logical structure of the following paper.
 
 Read the paper carefully and provide a critical analysis addressing:
